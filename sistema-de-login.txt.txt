@@ -1,2 +1,4 @@
 Digite seu email
 digite sua senha
+
+resolva o captcha
